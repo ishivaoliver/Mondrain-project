@@ -12,7 +12,6 @@ The Mondrian Project is a CSS Grid-based artwork inspired by the works of Piet M
 Mondrian-Project/
 │── index.html
 │── style.css
-│── README.md
 ```
 
 ## Color Palette
@@ -58,12 +57,8 @@ The grid structure is defined as follows:
 - Make the layout fully responsive for smaller screens.
 - Experiment with dynamic color changes using JavaScript.
 
-## License
-This project is open-source and available under the MIT License.
-
 ## Author
-**[Your Name]**
+**[Done by Oliver]**
 
 ---
-Feel free to modify this README to suit your preferences!
 
